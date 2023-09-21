@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		225E14F02ABBC01C003FE071 /* powermovesApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 225E14EF2ABBC01C003FE071 /* powermovesApp.swift */; };
-		225E14F22ABBC01C003FE071 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 225E14F12ABBC01C003FE071 /* ContentView.swift */; };
 		225E14F42ABBC01E003FE071 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 225E14F32ABBC01E003FE071 /* Assets.xcassets */; };
 		225E14F82ABBC01E003FE071 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 225E14F72ABBC01E003FE071 /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
@@ -16,7 +15,6 @@
 /* Begin PBXFileReference section */
 		225E14EC2ABBC01C003FE071 /* powermoves.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = powermoves.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		225E14EF2ABBC01C003FE071 /* powermovesApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = powermovesApp.swift; sourceTree = "<group>"; };
-		225E14F12ABBC01C003FE071 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		225E14F32ABBC01E003FE071 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		225E14F52ABBC01E003FE071 /* powermoves.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = powermoves.entitlements; sourceTree = "<group>"; };
 		225E14F72ABBC01E003FE071 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -53,7 +51,6 @@
 			isa = PBXGroup;
 			children = (
 				225E14EF2ABBC01C003FE071 /* powermovesApp.swift */,
-				225E14F12ABBC01C003FE071 /* ContentView.swift */,
 				225E14F32ABBC01E003FE071 /* Assets.xcassets */,
 				225E14F52ABBC01E003FE071 /* powermoves.entitlements */,
 				225E14F62ABBC01E003FE071 /* Preview Content */,
@@ -139,7 +136,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				225E14F22ABBC01C003FE071 /* ContentView.swift in Sources */,
 				225E14F02ABBC01C003FE071 /* powermovesApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
