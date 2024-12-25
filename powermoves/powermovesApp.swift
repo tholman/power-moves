@@ -16,7 +16,7 @@ class AppDelegate: NSObject, NSApplicationDelegate {
     var statusItem: NSStatusItem?
     var showPercentage = true
     var countdownTimer: Timer?
-    var batteryPercentage = 2
+    var batteryPercentage = 1
 
     func applicationDidFinishLaunching(_ notification: Notification) {
         let colors: [NSColor] = [.gray]
