@@ -1,0 +1,28 @@
+{
+  "" : {
+    "diagnostics" : "/Users/tim/Code/powermoves/Build/Intermediates.noindex/powermoves.build/Debug/powermoves.build/Objects-normal/arm64/powermoves-master.dia",
+    "emit-module-dependencies" : "/Users/tim/Code/powermoves/Build/Intermediates.noindex/powermoves.build/Debug/powermoves.build/Objects-normal/arm64/powermoves-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/tim/Code/powermoves/Build/Intermediates.noindex/powermoves.build/Debug/powermoves.build/Objects-normal/arm64/powermoves-master-emit-module.dia",
+    "swift-dependencies" : "/Users/tim/Code/powermoves/Build/Intermediates.noindex/powermoves.build/Debug/powermoves.build/Objects-normal/arm64/powermoves-master.swiftdeps"
+  },
+  "/Users/tim/Code/powermoves/Build/Intermediates.noindex/powermoves.build/Debug/powermoves.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/tim/Code/powermoves/Build/Intermediates.noindex/powermoves.build/Debug/powermoves.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/tim/Code/powermoves/Build/Intermediates.noindex/powermoves.build/Debug/powermoves.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/tim/Code/powermoves/Build/Intermediates.noindex/powermoves.build/Debug/powermoves.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/powermoves.build/Debug/powermoves.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/tim/Code/powermoves/Build/Intermediates.noindex/powermoves.build/Debug/powermoves.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/tim/Code/powermoves/Build/Intermediates.noindex/powermoves.build/Debug/powermoves.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/tim/Code/powermoves/Build/Intermediates.noindex/powermoves.build/Debug/powermoves.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/tim/Code/powermoves/Build/Intermediates.noindex/powermoves.build/Debug/powermoves.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/tim/Code/powermoves/powermoves/powermovesApp.swift" : {
+    "const-values" : "/Users/tim/Code/powermoves/Build/Intermediates.noindex/powermoves.build/Debug/powermoves.build/Objects-normal/arm64/powermovesApp.swiftconstvalues",
+    "dependencies" : "/Users/tim/Code/powermoves/Build/Intermediates.noindex/powermoves.build/Debug/powermoves.build/Objects-normal/arm64/powermovesApp.d",
+    "diagnostics" : "/Users/tim/Code/powermoves/Build/Intermediates.noindex/powermoves.build/Debug/powermoves.build/Objects-normal/arm64/powermovesApp.dia",
+    "index-unit-output-path" : "/powermoves.build/Debug/powermoves.build/Objects-normal/arm64/powermovesApp.o",
+    "llvm-bc" : "/Users/tim/Code/powermoves/Build/Intermediates.noindex/powermoves.build/Debug/powermoves.build/Objects-normal/arm64/powermovesApp.bc",
+    "object" : "/Users/tim/Code/powermoves/Build/Intermediates.noindex/powermoves.build/Debug/powermoves.build/Objects-normal/arm64/powermovesApp.o",
+    "swift-dependencies" : "/Users/tim/Code/powermoves/Build/Intermediates.noindex/powermoves.build/Debug/powermoves.build/Objects-normal/arm64/powermovesApp.swiftdeps",
+    "swiftmodule" : "/Users/tim/Code/powermoves/Build/Intermediates.noindex/powermoves.build/Debug/powermoves.build/Objects-normal/arm64/powermovesApp~partial.swiftmodule"
+  }
+}

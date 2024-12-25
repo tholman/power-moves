@@ -1,0 +1,56 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "7fef5a89990e4c90ae3232addbd622d7cc2db4028dd3a2b6230afc8b6c0b05f2"
+    }
+  ],
+  "containerPath" : "/Users/tim/Code/powermoves/powermoves.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx14.0",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/tim/Code/powermoves/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/tim/Code/powermoves/Build/Products",
+      "derivedDataPath" : "/Users/tim/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/tim/Library/Developer/Xcode/DerivedData/powermoves-gvzesxvkbszkjdcubmxbkraynvge/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/tim/Library/Developer/Xcode/DerivedData/powermoves-gvzesxvkbszkjdcubmxbkraynvge/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/tim/Code/powermoves/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
