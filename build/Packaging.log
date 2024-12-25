@@ -1,0 +1,98 @@
+2024-12-25 18:51:01 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x32c8e16d0; archive(resolved)="<IDEArchive: 0x60000d743480>", distributionTask(resolved)="2", distributionDestination(resolved)="1", distributionMethod(resolved)="<IDEDistributionMethodDevelopmentSignedMac: 0x60000b10a2f0>", team(resolved)="<IDEProvisioningDisambiguatableBasicTeam: 0x600006bd1ec0; teamID='58U9267HY2', teamName='Timothy Holman', teamType='Individual', username='timothy.w.holman@gmail.com', isFreeProvisioningTeam='0'>">
+	Chain (12, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x32c8e16d0; archive = "<IDEArchive: 0x60000d743480>", distributionMethod="<IDEDistributionMethodDevelopmentSignedMac: 0x60000b10a2f0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600006bd1ec0; teamID='58U9267HY2', teamName='Timothy Holman', teamType='Individual', username='timothy.w.holman@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionProcessingPipelineContext: 0x37de73e40; archive = "<IDEArchive: 0x60000d743480>", distributionMethod="<IDEDistributionMethodDevelopmentSignedMac: 0x60000b10a2f0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600006bd1ec0; teamID='58U9267HY2', teamName='Timothy Holman', teamType='Individual', username='timothy.w.holman@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x37ddfbc80; archive = "<IDEArchive: 0x60000d743480>", distributionMethod="<IDEDistributionMethodDevelopmentSignedMac: 0x60000b10a2f0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600006bd1ec0; teamID='58U9267HY2', teamName='Timothy Holman', teamType='Individual', username='timothy.w.holman@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x37e594310; archive = "<IDEArchive: 0x60000d743480>", distributionMethod="<IDEDistributionMethodDevelopmentSignedMac: 0x60000b10a2f0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600006bd1ec0; teamID='58U9267HY2', teamName='Timothy Holman', teamType='Individual', username='timothy.w.holman@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x37e530070; archive = "<IDEArchive: 0x60000d743480>", distributionMethod="<IDEDistributionMethodDevelopmentSignedMac: 0x60000b10a2f0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600006bd1ec0; teamID='58U9267HY2', teamName='Timothy Holman', teamType='Individual', username='timothy.w.holman@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x32c8b10f0; archive = "<IDEArchive: 0x60000d743480>", distributionMethod="<IDEDistributionMethodDevelopmentSignedMac: 0x60000b10a2f0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600006bd1ec0; teamID='58U9267HY2', teamName='Timothy Holman', teamType='Individual', username='timothy.w.holman@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x37e3e0540; archive = "<IDEArchive: 0x60000d743480>", distributionMethod="<IDEDistributionMethodDevelopmentSignedMac: 0x60000b10a2f0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600006bd1ec0; teamID='58U9267HY2', teamName='Timothy Holman', teamType='Individual', username='timothy.w.holman@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x37ec5edf0; archive = "<IDEArchive: 0x60000d743480>", distributionMethod="<IDEDistributionMethodDevelopmentSignedMac: 0x60000b10a2f0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600006bd1ec0; teamID='58U9267HY2', teamName='Timothy Holman', teamType='Individual', username='timothy.w.holman@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x328f17810; archive = "<IDEArchive: 0x60000d743480>", distributionMethod="<IDEDistributionMethodDevelopmentSignedMac: 0x60000b10a2f0>", team="(null)">
+	<IDEDistributionContext: 0x32867f190; archive = "<IDEArchive: 0x60000d743480>", distributionMethod="(null)", team="(null)">
+	<IDEDistributionContext: 0x3285e8ea0; archive = "<IDEArchive: 0x60000d743480>", distributionMethod="(null)", team="(null)">
+	<IDEDistributionContext: 0x31c4245f0; archive = "<IDEArchive: 0x60000d743480>", distributionMethod="(null)", team="(null)">
+</IDEDistributionProcessingPipelineContext: 0x32c8e16d0>
+2024-12-25 18:51:01 +0000  Processing step: IDEDistributionCreateDestRootStep
+2024-12-25 18:51:01 +0000  Processing step: IDEDistributionCopyItemStep
+2024-12-25 18:51:01 +0000  Running /usr/bin/ditto '-V' '/Users/tim/Library/Developer/Xcode/Archives/2024-12-25/powermoves 12-25-24, 1.50 PM.xcarchive/Products/Applications/powermoves.app' '/var/folders/yc/pmql9dx50ts_d_542c398qkm0000gn/T/XcodeDistPipeline.~~~EcpQNL/Root/Applications/powermoves.app'
+2024-12-25 18:51:01 +0000  >>> Copying /Users/tim/Library/Developer/Xcode/Archives/2024-12-25/powermoves 12-25-24, 1.50 PM.xcarchive/Products/Applications/powermoves.app 
+2024-12-25 18:51:01 +0000  copying file ./Contents/_CodeSignature/CodeResources ... 
+2024-12-25 18:51:01 +0000  2200 bytes for ./Contents/_CodeSignature/CodeResources
+2024-12-25 18:51:01 +0000  copying file ./Contents/MacOS/powermoves ... 
+2024-12-25 18:51:01 +0000  230000 bytes for ./Contents/MacOS/powermoves
+2024-12-25 18:51:01 +0000  copying file ./Contents/Info.plist ... 
+2024-12-25 18:51:01 +0000  1909 bytes for ./Contents/Info.plist
+2024-12-25 18:51:01 +0000  copying file ./Contents/PkgInfo ... 
+2024-12-25 18:51:01 +0000  8 bytes for ./Contents/PkgInfo
+2024-12-25 18:51:01 +0000  /usr/bin/ditto exited with 0
+2024-12-25 18:51:01 +0000  Processing step: IDEDistributionEmbedProfileStep
+2024-12-25 18:51:01 +0000  Skipping profile for item: <IDEDistributionItem: 0x60000d7e5800; bundleID='tholman.powermoves', path='<DVTFilePath:0x60000da72140:'/Users/tim/Library/Developer/Xcode/Archives/2024-12-25/powermoves 12-25-24, 1.50 PM.xcarchive/Products/Applications/powermoves.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000151e0b40; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600000780180; name='Apple Development: Timothy Holman (U6KQS99Z92)', hash='7C7EF330BBBBD535A1945BA38219C66A07F1A8D0', serialNumber='625DB18DD20043FE602A42A79281834B', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-12-25 16:12:14 +0000''>', entitlements='{
+    "com.apple.security.app-sandbox" = 1;
+    "com.apple.security.files.user-selected.read-only" = 1;
+}', teamID='58U9267HY2', identifier='tholman.powermoves', executablePath='<DVTFilePath:0x600011af4310:'/Users/tim/Library/Developer/Xcode/Archives/2024-12-25/powermoves 12-25-24, 1.50 PM.xcarchive/Products/Applications/powermoves.app/Contents/MacOS/powermoves'>', hardenedRuntime='1'>'>
+2024-12-25 18:51:01 +0000  Processing step: IDEDistributionInfoPlistStep
+2024-12-25 18:51:01 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2024-12-25 18:51:01 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2024-12-25 18:51:01 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2024-12-25 18:51:01 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
+2024-12-25 18:51:01 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2024-12-25 18:51:01 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2024-12-25 18:51:01 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2024-12-25 18:51:01 +0000  Processing step: IDEDistributionSymbolsStep
+2024-12-25 18:51:01 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2024-12-25 18:51:01 +0000  Processing step: IDEDistributionAppThinningStep
+2024-12-25 18:51:01 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2024-12-25 18:51:01 +0000  Processing step: IDEDistributionArchThinningStep
+2024-12-25 18:51:01 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/yc/pmql9dx50ts_d_542c398qkm0000gn/T/XcodeDistPipeline.~~~EcpQNL/Root/Applications/powermoves.app/Contents/MacOS/powermoves' '-verify_arch' 'arm64e'
+2024-12-25 18:51:01 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2024-12-25 18:51:01 +0000  Skipping architecture thinning for item "powermoves" because arch "arm64e" wasn't found
+2024-12-25 18:51:01 +0000  Processing step: IDEDistributionODRStep
+2024-12-25 18:51:01 +0000  Processing step: IDEDistributionStripXattrsStep
+2024-12-25 18:51:01 +0000  Skipping stripping extended attributes because the codesign step will strip them.
+2024-12-25 18:51:01 +0000  Processing step: IDEDistributionCodesignStep
+2024-12-25 18:51:01 +0000  Entitlements for <IDEDistributionItem: 0x60000d7e5800; bundleID='tholman.powermoves', path='<DVTFilePath:0x60000da72140:'/Users/tim/Library/Developer/Xcode/Archives/2024-12-25/powermoves 12-25-24, 1.50 PM.xcarchive/Products/Applications/powermoves.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000151e0b40; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x6000047ad200; name='Apple Development: Timothy Holman (U6KQS99Z92)', hash='7C7EF330BBBBD535A1945BA38219C66A07F1A8D0', serialNumber='625DB18DD20043FE602A42A79281834B', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-12-25 16:12:14 +0000''>', entitlements='{
+    "com.apple.security.app-sandbox" = 1;
+    "com.apple.security.files.user-selected.read-only" = 1;
+}', teamID='58U9267HY2', identifier='tholman.powermoves', executablePath='<DVTFilePath:0x600011af4310:'/Users/tim/Library/Developer/Xcode/Archives/2024-12-25/powermoves 12-25-24, 1.50 PM.xcarchive/Products/Applications/powermoves.app/Contents/MacOS/powermoves'>', hardenedRuntime='1'>'>: {
+    "com.apple.security.app-sandbox" = 1;
+    "com.apple.security.files.user-selected.read-only" = 1;
+}
+2024-12-25 18:51:01 +0000  Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
+2024-12-25 18:51:01 +0000  Entitlements for <IDEDistributionItem: 0x60000d7e5800; bundleID='tholman.powermoves', path='<DVTFilePath:0x60000da72140:'/Users/tim/Library/Developer/Xcode/Archives/2024-12-25/powermoves 12-25-24, 1.50 PM.xcarchive/Products/Applications/powermoves.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000151e0b40; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x6000047adc80; name='Apple Development: Timothy Holman (U6KQS99Z92)', hash='7C7EF330BBBBD535A1945BA38219C66A07F1A8D0', serialNumber='625DB18DD20043FE602A42A79281834B', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-12-25 16:12:14 +0000''>', entitlements='{
+    "com.apple.security.app-sandbox" = 1;
+    "com.apple.security.files.user-selected.read-only" = 1;
+}', teamID='58U9267HY2', identifier='tholman.powermoves', executablePath='<DVTFilePath:0x600011af4310:'/Users/tim/Library/Developer/Xcode/Archives/2024-12-25/powermoves 12-25-24, 1.50 PM.xcarchive/Products/Applications/powermoves.app/Contents/MacOS/powermoves'>', hardenedRuntime='1'>'> are: {
+    "com.apple.security.app-sandbox" = 1;
+    "com.apple.security.files.user-selected.read-only" = 1;
+}
+2024-12-25 18:51:01 +0000  Writing entitlements for <IDEDistributionItem: 0x60000d7e5800; bundleID='tholman.powermoves', path='<DVTFilePath:0x60000da72140:'/Users/tim/Library/Developer/Xcode/Archives/2024-12-25/powermoves 12-25-24, 1.50 PM.xcarchive/Products/Applications/powermoves.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000151e0b40; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x6000047ae280; name='Apple Development: Timothy Holman (U6KQS99Z92)', hash='7C7EF330BBBBD535A1945BA38219C66A07F1A8D0', serialNumber='625DB18DD20043FE602A42A79281834B', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-12-25 16:12:14 +0000''>', entitlements='{
+    "com.apple.security.app-sandbox" = 1;
+    "com.apple.security.files.user-selected.read-only" = 1;
+}', teamID='58U9267HY2', identifier='tholman.powermoves', executablePath='<DVTFilePath:0x600011af4310:'/Users/tim/Library/Developer/Xcode/Archives/2024-12-25/powermoves 12-25-24, 1.50 PM.xcarchive/Products/Applications/powermoves.app/Contents/MacOS/powermoves'>', hardenedRuntime='1'>'> to: /var/folders/yc/pmql9dx50ts_d_542c398qkm0000gn/T/XcodeDistPipeline.~~~EcpQNL/entitlements~~~4WyIlb
+2024-12-25 18:51:01 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '7C7EF330BBBBD535A1945BA38219C66A07F1A8D0' '--entitlements' '/var/folders/yc/pmql9dx50ts_d_542c398qkm0000gn/T/XcodeDistPipeline.~~~EcpQNL/entitlements~~~4WyIlb' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/yc/pmql9dx50ts_d_542c398qkm0000gn/T/XcodeDistPipeline.~~~EcpQNL/Root/Applications/powermoves.app'
+2024-12-25 18:51:02 +0000  /var/folders/yc/pmql9dx50ts_d_542c398qkm0000gn/T/XcodeDistPipeline.~~~EcpQNL/Root/Applications/powermoves.app: replacing existing signature
+2024-12-25 18:51:02 +0000  /var/folders/yc/pmql9dx50ts_d_542c398qkm0000gn/T/XcodeDistPipeline.~~~EcpQNL/Root/Applications/powermoves.app: signed app bundle with Mach-O universal (x86_64 arm64) [tholman.powermoves]
+2024-12-25 18:51:02 +0000  /usr/bin/codesign exited with 0
+2024-12-25 18:51:02 +0000  Processing step: IDEDistributionZipODRItemStep
+2024-12-25 18:51:02 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2024-12-25 18:51:02 +0000  Processing step: IDEDistributionSkipPackagingStep
+2024-12-25 18:51:02 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2024-12-25 18:51:02 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2024-12-25 18:51:02 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
+2024-12-25 18:51:02 +0000  IDEDistributionItem init <DVTFilePath:0x600011b00380:'/var/folders/yc/pmql9dx50ts_d_542c398qkm0000gn/T/XcodeDistPipeline.~~~EcpQNL/Root/Applications/powermoves.app'>
+2024-12-25 18:51:02 +0000  [OPTIONAL] Didn't find embedded provisioning profile for <DVTFilePath:0x600011b00380:'/var/folders/yc/pmql9dx50ts_d_542c398qkm0000gn/T/XcodeDistPipeline.~~~EcpQNL/Root/Applications/powermoves.app'>: Error Domain=NSCocoaErrorDomain Code=4 "No file at <DVTFilePath:0x600009cc3e00:'/var/folders/yc/pmql9dx50ts_d_542c398qkm0000gn/T/XcodeDistPipeline.~~~EcpQNL/Root/Applications/powermoves.app/Contents/embedded.provisionprofile'>" UserInfo={NSLocalizedDescription=No file at <DVTFilePath:0x600009cc3e00:'/var/folders/yc/pmql9dx50ts_d_542c398qkm0000gn/T/XcodeDistPipeline.~~~EcpQNL/Root/Applications/powermoves.app/Contents/embedded.provisionprofile'>}
+2024-12-25 18:51:02 +0000  Processing step: IDEDistributionCreateManifestStep
+2024-12-25 18:51:02 +0000  Skipping step: IDEDistributionCreateManifestStep because it said so
